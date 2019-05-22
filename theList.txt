@@ -1,10 +1,11 @@
-.advertising.gr
-.contactpigeon.com
-.disqus.com
-.disquscdn.com
-.madinad.com
-.projectagoratech.com
+((^)|(\.))advertising.gr
+((^)|(\.))contactpigeon.com
+((^)|(\.))disqus.com
+((^)|(\.))disquscdn.com
+((^)|(\.))madinad.com
+((^)|(\.))projectagoratech.com
 adman.antena.gr
+advrts.advertising.gr
 alteregomedia.org
 arc81x.com
 baked.gr
