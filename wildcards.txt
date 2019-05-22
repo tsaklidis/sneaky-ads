@@ -1,3 +1,4 @@
+# Ad this to the /etc/pihole/regex.list file
 ((^)|(\.))advertising\.
 ((^)|(\.))disqus\.
 ((^)|(\.))disquscdn\.
