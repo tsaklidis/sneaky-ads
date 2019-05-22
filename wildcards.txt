@@ -1,4 +1,6 @@
 # Ad this to the /etc/pihole/regex.list file
+# For examples check the docs 
+# https://docs.pi-hole.net/ftldns/regex/tutorial/
 adman
 ((^)|(\.))advertising\.
 ((^)|(\.))disqus\.
