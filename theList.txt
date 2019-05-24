@@ -1,5 +1,16 @@
+ad2.linkwise.gr
+adfarm.mediaplex.com
 adman.antena.gr
 adman.forthnet.gr
+adman.in.gr
+adman.otenet.gr
+ads.24media.gr
+ads.e-go.gr
+ads.meridianbet.gr
+ads.naftemporiki.gr
+ads.patris.gr
+ads.radial.gr
+adserver.itsfogo.com
 advertising.gr
 alteregomedia.org
 arc81x.com
@@ -14,4 +25,8 @@ mediacube.gr
 orangeclickmedia.com
 paslsa.com
 projectagoratech.com
+serve.ads.gr
+smart-ads.gr
+static.adman.gr
+track.adform.net
 u8000.com
